@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me IG
 
-- ⚡ Fun fact: I like myself and volley!
+- ⚡ Fun fact: I like volley!
 
 <!---
 samuelcarvalhais/samuelcarvalhais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
